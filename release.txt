@@ -5,8 +5,8 @@ pymongo==2.7
 django==1.6.5
 djangorestframework==2.3.13
 django-filter==0.7
-django-cors-headers
-django-reversion
+django-cors-headers==0.13
+django-reversion==1.8.2
 celery
 requests
 jsonfield
